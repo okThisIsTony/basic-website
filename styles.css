@@ -9,4 +9,16 @@ img {
 }
 
     h1 {text-align: center;}
-    h2 {text-align: center;}
+    h1 {
+        color: azure;
+    }
+
+    h3 {text-align: center;}
+    h3 {
+        color: azure;
+    }
+
+    h2 {text-align: left;}
+    h2 {
+        color: rgb(48, 48, 48);
+    }
