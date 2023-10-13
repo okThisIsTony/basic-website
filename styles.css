@@ -4,8 +4,8 @@ body {
 }
 IMG.displayed {
     display: block;
-    margin-left: auto;
-    margin-right: auto }
-    
+    margin-left: 0cm;
+    margin-right: 0cm; }
+
     h1 {text-align: center;}
     h2 {text-align: center;}
