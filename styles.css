@@ -20,5 +20,7 @@ img {
 
     h2 {text-align: left;}
     h2 {
+        background-color: azure;
         color: rgb(48, 48, 48);
+        width: 55%;
     }
