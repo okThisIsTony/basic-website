@@ -10,17 +10,25 @@ img {
 
     h1 {text-align: center;}
     h1 {
-        color: azure;
+        background-color: rgb(56, 76, 61);
+        color: rgb(218, 214, 165);
+        border-style: double;
+        border-color: azure;
+        border-width: thick;
     }
 
     h3 {text-align: center;}
     h3 {
-        color: azure;
+        color: rgb(246, 241, 186);
     }
 
     h2 {text-align: left;}
     h2 {
-        background-color: rgb(68, 97, 97);
-        color: rgb(48, 48, 48);
-        width: 55%;
+        background-color: rgb(60, 81, 108);
+        color: azure;
+        width: 35%;
+        border-style: solid;
+        border-color: rgb(216, 230, 230);
+        border-width: thin;
+        width: 35%;
     }
